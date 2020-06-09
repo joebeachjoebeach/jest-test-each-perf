@@ -1,0 +1,11 @@
+{
+  "name": "jest-test-each-perf",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "26.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
